@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="http://www.w3.org/1999/xhtml">
-<xsl:template match="/">
-<html><head><title>loading</title><meta itemprop="name" content="防红接口直链--fanghong.zeabur.app"/><meta itemprop="image" content="https://img-blog.csdnimg.cn/direct/ddb610a71d6b4b90a315c2d58aee2d6a.png" /><meta name="description" itemprop="description" content="即将进入网址" /></head><body><script src="//url.s.4kit.cn/jump/index.js"></script></body></html>
-</xsl:template>
-</xsl:stylesheet>
